@@ -99,4 +99,10 @@ evidencias/       Capturas organizadas por fase da POC
 relatorio/        Relatório técnico detalhado
 configuracoes/    Registros de configuração relevantes
 logs/             Espaço reservado para logs de validação
+guia-reproducao/  Guia de importação no VirtualBox e status da POC
 ```
+
+## Reprodução em outro computador
+
+- [Guia rápido de configuração no VirtualBox](guia-reproducao/01-guia-rapido-virtualbox.md)
+- [Status detalhado e próximas etapas](guia-reproducao/02-status-detalhado-poc.md)
